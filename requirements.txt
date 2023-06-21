@@ -1,0 +1,12 @@
+app.py:
+
+Flask
+BeautifulSoup 4
+requests
+csv
+
+
+
+bot:
+
+Selenium
